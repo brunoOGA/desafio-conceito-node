@@ -16,7 +16,7 @@ listagem, atualização e remoção dos repositórios, e além disso permitir qu
   $ git clone https://github.com/brunoOGA/desafio-conceito-node.git
   
   # Entrar no diretório
-  $ cd desafio-conceito-node.git
+  $ cd desafio-conceito-node
   
   # Instalar as dependências
   $ yarn
