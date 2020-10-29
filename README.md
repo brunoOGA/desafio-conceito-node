@@ -3,6 +3,7 @@
 ## Sobre 
 A aplicação armazena repositórios do seu portfólio, que irá permitir a criação, 
 listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
+
 ---
 ## Tecnologias utilizadas
 - [Node](https://nodejs.org/en/)
