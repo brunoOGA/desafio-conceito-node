@@ -25,6 +25,6 @@ listagem, atualização e remoção dos repositórios, e além disso permitir qu
   $ yarn test
   
   # Iniciar o prjeto
-  $ yarn start
+  $ yarn dev
   
 ```
